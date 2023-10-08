@@ -16,7 +16,24 @@ CMOS Analog IC design LABS and Projects
    * Challenge day project: Digitally Controlled Variable Gain Amplifier (VGA).
 >## Projects' outs : 
    * how to use gm/Id methodology to design the given topology and achieve it's specs.
-   * how to select the suitable OTA achieve specific specs. 
+   * how to select the suitable OTA achieve specific specs.
+
+## Course Topics 
+
+1. Mosfet large/small signal models
+2. Basic and Cascode Amplifier Stages.
+3. Frequency Response.
+4. Current Mirrors.
+5. Differential Amplifier and The Five-Transistor (5T) OTA.
+6. gm/ID Design Methodology.
+7. Negative Feedback.
+8. OTA Stability and Compensation.
+9. Noise Analysis.
+10. OTA Topologies.
+11. Common-Mode Feedback.
+12. Slew Rate and PSRR.
+13. Variability and Mismatch.
+14. Biasing and Reference Circuits.
 
 > ## Materials:
    *  [Course Videos part 1](https://youtube.com/playlist?list=PLMSBalys69yzp1vrmnYAmpRFiptbuGuaj)
@@ -24,3 +41,4 @@ CMOS Analog IC design LABS and Projects
    *  [Course slides](https://drive.google.com/folderview?id=1OWcbg8f48_ilr8jptdFEA3nbNeQyD0Hi)
    *  [Labs PDFs](https://drive.google.com/folderview?id=1bVQrHuBM_Zyx9GM0jdYwGqFmFIBjb9Fk)
    *  [Master Micro site](https://www.master-micro.com/home)
+     
